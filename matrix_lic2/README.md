@@ -12,5 +12,4 @@ This project is licensed under the MIT License.
 
 ## Screenshots
 ### Start
-<img width="50%" height="50%" src="https://imgur.com/jJg4T9J"/>
-<img src="https://imgur.com/jJg4T9J"/>
+<img width="100%" height="100%" src="https://imgur.com/jJg4T9J.png"/>
